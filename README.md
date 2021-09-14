@@ -1,2 +1,2 @@
 # Summer-Olympics-Data-Analysis-Assignment
-Skill India second assignment about summer olympics data analysis
+Skill India Internship second assignment about summer olympics data analysis
